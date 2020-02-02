@@ -1,8 +1,7 @@
-package hm12;
+package hm13;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("main1");
+        System.out.println("sdfsdf");
     }
-
 }
